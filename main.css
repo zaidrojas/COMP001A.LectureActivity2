@@ -1,0 +1,23 @@
+/* Primary stylesheet for the Mozart Biography website Author: Zaid Rojas */
+
+body{
+    font-family: sans-serif;
+    padding: 1em;
+    max-width: 600px;
+}
+
+h1{
+    font-size: 180%;
+    color: #0033cc;
+}
+
+h2{
+    font-size: 140%;
+    border-bottom: 3px solid #0033cc;
+}
+
+ul{
+    list-style-type: square;
+}
+
+.content { background-color: blu; /* "blu" is not a valid color value. It should be "blue". */ }
