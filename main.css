@@ -20,4 +20,5 @@ ul{
     list-style-type: square;
 }
 
+/* create's a 'content' class with specified background color feature */
 .content { background-color: blue; }
