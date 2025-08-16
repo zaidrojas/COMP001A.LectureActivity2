@@ -20,4 +20,4 @@ ul{
     list-style-type: square;
 }
 
-.content { background-color: blu; /* "blu" is not a valid color value. It should be "blue". */ }
+.content { background-color: blue; }
